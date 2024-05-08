@@ -12,7 +12,7 @@ Sigue estos pasos para clonar el repositorio en tu máquina local y ejecutar el 
 2. Utiliza el comando `git clone` seguido del enlace del repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/multiplicacion-matrices.git
+git clone https://github.com/maxipietkiewcz/multiplicacionMatrices.git
 ```
 
 ## Instalar las dependecias
